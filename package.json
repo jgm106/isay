@@ -1,0 +1,22 @@
+{
+  "name": "isay",
+  "version": "0.0.1",
+  "description": "isay yousay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgm106/isay.git"
+  },
+  "author": "Jeff Minelli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jgm106/isay/issues"
+  },
+  "homepage": "https://github.com/jgm106/isay#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.23"
+  }
+}
